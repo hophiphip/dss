@@ -1,4 +1,4 @@
-# dss (Dump Streaming Server)
+# dss (Dumb Streaming Server)
 ## Server for [dsc](https://github.com/hophiphip/dsc)
 
 ## Usage
